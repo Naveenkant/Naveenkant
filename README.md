@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Avinash Singh</h1>
-<h3 align="center">A passionate web developer</h3>
+<h1 align="center">Hi 👋, I'm Naveen</h1>
+<h3 align="center">A passionate Android developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-cs&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-cs" /> </p>
 
-- 🔭 I’m currently working on **Node.js**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on **Web-development projects**
+- 👯 I’m looking to collaborate on **Android-development projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/avinash-cs](https://github.com/avinash-cs)
 
-- 💬 Ask me about **ReactJS, NodeJs, JavaScript, Python, C++, Data structures and Algorithms.**
+- 💬 Ask me about **Java, Dart, Android, Flutter, Firebase, Data structures and Algorithms.**
 
-- 📫 How to reach me **avinashsingh880086@gmail.com**
+- 📫 How to reach me **naveenkant227@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
